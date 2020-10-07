@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body for post one",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "My post",
+      "body": "This is a body of the post",
+      "publishedAt": "2020-10-07",
+      "id": "ji3SHDD"
+    }
+  ],
+  "users": [
+    {
+      "name": "Nenad",
+      "email": "nenad@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Neko drugi",
+      "email": "neko@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Bla",
+      "email": "bla@gmail.com",
+      "id": 3
+    }
+  ]
+}
